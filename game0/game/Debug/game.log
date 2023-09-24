@@ -1,0 +1,15 @@
+﻿  main.c
+C:\Users\DELL\source\repos\game\game\main.c(374,27): warning C4133: 'function': incompatible types - from 'SDL_Surface *' to 'SDL_Texture *'
+C:\Users\DELL\source\repos\game\game\main.c(342,7): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\DELL\source\repos\game\game\main.c(343,7): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\DELL\source\repos\game\game\main.c(344,7): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\DELL\source\repos\game\game\main.c(345,7): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\DELL\source\repos\game\game\main.c(348,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\DELL\source\repos\game\game\main.c(349,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\DELL\source\repos\game\game\main.c(350,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\DELL\source\repos\game\game\main.c(351,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\DELL\source\repos\game\game\main.c(354,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\DELL\source\repos\game\game\main.c(355,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\DELL\source\repos\game\game\main.c(356,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\DELL\source\repos\game\game\main.c(357,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  game.vcxproj -> C:\Users\DELL\source\repos\game\Debug\game.exe
